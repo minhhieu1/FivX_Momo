@@ -13,24 +13,24 @@ Khi người dùng nhập Tên đăng nhập và mật khẩu, hệ thống đã
 ![login screen error](https://user-images.githubusercontent.com/43350564/66132344-1c9df780-e61f-11e9-9641-798eedce6290.gif)
 
 ### Màn hình Home
-Khi vừa được điều hướng qua màn hình Home, người dùng sẽ thấy 2 tab Xu Hướng Chung và Dành Cho Bạn
+Khi vừa được điều hướng qua màn hình Home, người dùng sẽ thấy 2 tab Xu Hướng Chung và Dành Cho Bạn.
 
 ![All](https://user-images.githubusercontent.com/43350564/66132912-03e21180-e620-11e9-8b4d-1bb5d9fa963d.gif)
 ![Personal](https://user-images.githubusercontent.com/43350564/66132852-e7de7000-e61f-11e9-95df-505ebf8b526e.gif)
 
 #### Tab Xu Hướng Chung 
 Sẽ hiển thị danh sách các Danh mục Dịch vụ cho người dùng chọn. Khi chọn, người dùng sẽ được lựa chọn các gợi ý theo yêu cầu:
-Giá thấp đến cao, Gần bạn và Hot
+Giá thấp đến cao, Gần bạn và Hot.
 
 ![XuHuongChung](https://user-images.githubusercontent.com/43350564/66133585-1f99e780-e621-11e9-8053-e729dddc3be9.gif)
 
 #### Tab Dành Cho Bạn
-Sẽ hiển thị danh sách các cửa hàng đươc hệ thống gợi ý dựa trên thói quen mua sắm và phân tích lịch sử giao dịch của khác hàng
+Sẽ hiển thị danh sách các cửa hàng đươc hệ thống gợi ý dựa trên thói quen mua sắm và phân tích lịch sử giao dịch của khác hàng.
 
 ![personalTab](https://user-images.githubusercontent.com/43350564/66133997-cc746480-e621-11e9-98fe-f7a1987289c5.gif)
 
 ### Màn hình Ưa Thích
-Sẽ hiển thị danh sách các cửa hàng người dùng đã nhấn nút "Ưa thích" và được hệ thống ghi lại
+Sẽ hiển thị danh sách các cửa hàng người dùng đã nhấn nút "Ưa thích" và được hệ thống ghi lại.
 
 ![like](https://user-images.githubusercontent.com/43350564/66134262-3ee54480-e622-11e9-8945-8dd8685a85d9.gif)
 
